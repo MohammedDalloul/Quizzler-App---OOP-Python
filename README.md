@@ -1,5 +1,5 @@
 # Quizzler-App---OOP-Python
-A quiz app that generates 10 questions from various categories depending on the Trivia opendtb using API calls.
+A quiz app that generates 10 questions from various categories depending on the Trivia opendtb using API calls. <>>>
 
 It is a simple Python-GUI app that generates 10 different questions from the Trivia open-database using API call from different categories and has a right
     and a wrong button and a scoreboard to follow up with the score.
